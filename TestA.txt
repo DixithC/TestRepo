@@ -1,1 +1,2 @@
 This is for testing the got inside the fileA
+New text 1st change.
