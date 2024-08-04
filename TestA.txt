@@ -1,2 +1,3 @@
 This is for testing the got inside the fileA
 New text 1st change.
+This is the new change added for the new branch "branch1"
